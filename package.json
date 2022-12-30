@@ -1,0 +1,5 @@
+{
+  "name": "synced-state",
+  "version": "0.1.0",
+  "description": "Efficiently send parts of your server state to many clients"
+}
